@@ -93,14 +93,16 @@
     "users": [
         {
             "id": 1,
-            "usname": "Cleyton",
+            "name": "Cleyton",
+            "email": "cleyton@gmail.com",
             "password": "senhaDíficil",
             "photo": null,
             "created_at": "2023-07-25 22:02:59"
         },
         {
             "id": 2,
-            "usname": "Lucas",
+            "name": "Lucas",
+            "email": "lucas@gmail.gom",
             "password": "difícilPorqueTemÇ",
             "photo": null,
             "created_at": "2023-07-25 22:02:59"
