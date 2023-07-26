@@ -37,7 +37,7 @@
             "topic_id": 2
         },
         {
-            "id": 4,
+            "id": 5,
             "title": "Conexa Recorrência",
             "description": "Descubra como manter seu negócio estável com a nossa ferramenta",
             "image_url": null,
@@ -83,7 +83,7 @@
             "user_id": 1
         },
         {
-            "id": 5,
+            "id": 6,
             "body": "Ajudou bastante no meu negócio",
             "post_id": 3,
             "comment_id": 5,
