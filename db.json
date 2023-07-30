@@ -6,8 +6,8 @@
             "content": "Aumentar a rentabilidade de uma empresa envolve uma combinação de estratégias financeiras, operacionais e de gestão. Lembre-se de que cada empresa é única, e as estratégias que funcionam para uma podem não ser adequadas para outra. Avalie cuidadosamente o contexto do seu negócio, faça análises constantes e esteja aberto a ajustar suas estratégias conforme necessário. Se possível, conte com a orientação de profissionais especializados em gestão empresarial e finanças.",
             "image_url": "https://as2.ftcdn.net/v2/jpg/00/18/60/75/1000_F_18607589_fKOPX0dQKLcKRPKWwzkcmtZsbftqk5xF.jpg",
             "created_at": "2023-07-27T10:45:11Z",
-            "user_id": 2,
-            "category_id": 3
+            "userId": 2,
+            "categoryId": 3
         },
         {
             "id": 2,
@@ -15,8 +15,8 @@
             "content": "Aumentar o ticket médio é uma estratégia importante para aumentar a receita e a rentabilidade de um negócio. O ticket médio representa o valor médio gasto pelos clientes em cada compra, e existem várias formas de melhorá-lo. Lembre-se de que o aumento do ticket médio deve ser acompanhado por um atendimento de qualidade e uma proposta de valor clara e atrativa. Além disso, é fundamental conhecer bem o perfil e as necessidades dos seus clientes para oferecer soluções que realmente agreguem valor e justifiquem o gasto adicional.",
             "image_url": "https://as2.ftcdn.net/v2/jpg/06/07/42/03/1000_F_607420392_LdFuxthRw7OKYw8CFjBgr5aXDBy5Gu5r.jpg",
             "created_at": "2023-07-10T16:45:11Z",
-            "user_id": 1,
-            "category_id": 3
+            "userId": 1,
+            "categoryId": 3
         },
         {
             "id": 3,
@@ -24,8 +24,8 @@
             "content": "Sistema financeiro completo para empresas de serviços recorrentes",
             "image_url": "https://as2.ftcdn.net/v2/jpg/00/67/27/69/1000_F_67276977_nPSOEwTNowVhyZdHXWn8DXMbiDVZE48s.jpg",
             "created_at": "2023-07-30T12:45:11Z",
-            "user_id": 1,
-            "category_id": 6
+            "userId": 1,
+            "categoryId": 6
         },
         {
             "id": 4,
@@ -33,8 +33,8 @@
             "content": "O software Nº 1 em gestão de coworkings do Brasil!",
             "image_url": null,
             "created_at": "2023-07-26T15:45:11Z",
-            "user_id": 1,
-            "category_id": 2
+            "userId": 1,
+            "categoryId": 2
         },
         {
             "id": 5,
@@ -42,61 +42,61 @@
             "content": "Descubra como manter seu negócio estável com a nossa ferramenta",
             "image_url": null,
             "created_at": "2023-07-28T00:45:11Z",
-            "user_id": 1,
-            "category_id": 2
+            "userId": 1,
+            "categoryId": 2
         }
     ],
     "comments": [
         {
             "id": 1,
             "content": "Muito bom o conteúdo",
-            "post_id": 1,
-            "comment_id": null,
-            "user_id": 1,
+            "postId": 1,
+            "commentId": null,
+            "userId": 1,
             "created_at": "2023-07-30T21:45:11Z"
         },
         {
             "id": 2,
             "content": "Realmente. Me ajudou bastante",
-            "post_id": 1,
-            "comment_id": 1,
-            "user_id": 2,
+            "postId": 1,
+            "commentId": 1,
+            "userId": 2,
             "created_at": "2023-07-31T22:25:11Z"
 
         },
         {
             "id": 3,
             "content": "Show! 👏🏽👏🏽👏🏽",
-            "post_id": 1,
-            "comment_id": null,
-            "user_id": 2,
+            "postId": 1,
+            "commentId": null,
+            "userId": 2,
             "created_at": "2023-08-03T02:45:11Z"
 
         },
         {
             "id": 4,
             "content": "Parabéns!",
-            "post_id": 2,
-            "comment_id": null,
-            "user_id": 1,
+            "postId": 2,
+            "commentId": null,
+            "userId": 1,
             "created_at": "2023-07-31T01:45:11Z"
 
         },
         {
             "id": 5,
             "content": "Ótima ferramenta",
-            "post_id": 3,
-            "comment_id": null,
-            "user_id": 1,
+            "postId": 3,
+            "commentId": null,
+            "userId": 1,
             "created_at": "2023-08-30T21:45:11Z"
 
         },
         {
             "id": 6,
             "content": "Ajudou bastante no meu negócio",
-            "post_id": 3,
-            "comment_id": 5,
-            "user_id": 1,
+            "postId": 3,
+            "commentId": 5,
+            "userId": 1,
             "created_at": "2023-08-01T11:45:11Z"
 
         }
