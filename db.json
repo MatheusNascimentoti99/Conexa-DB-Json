@@ -5,7 +5,7 @@
             "title": "Como aumentar a rentabilidade da sua empresa",
             "content": "Aumentar a rentabilidade de uma empresa envolve uma combinação de estratégias financeiras, operacionais e de gestão. Lembre-se de que cada empresa é única, e as estratégias que funcionam para uma podem não ser adequadas para outra. Avalie cuidadosamente o contexto do seu negócio, faça análises constantes e esteja aberto a ajustar suas estratégias conforme necessário. Se possível, conte com a orientação de profissionais especializados em gestão empresarial e finanças.",
             "image_url": null,
-            "created_at": "2023-07-26 20:12:29",
+            "created_at": "2023-07-27T10:45:11Z",
             "user_id": 2,
             "category_id": 3
         },
@@ -14,7 +14,7 @@
             "title": "Melhorando o Ticket médio",
             "content": "Aumentar o ticket médio é uma estratégia importante para aumentar a receita e a rentabilidade de um negócio. O ticket médio representa o valor médio gasto pelos clientes em cada compra, e existem várias formas de melhorá-lo. Lembre-se de que o aumento do ticket médio deve ser acompanhado por um atendimento de qualidade e uma proposta de valor clara e atrativa. Além disso, é fundamental conhecer bem o perfil e as necessidades dos seus clientes para oferecer soluções que realmente agreguem valor e justifiquem o gasto adicional.",
             "image_url": null,
-            "created_at": "2023-07-26 20:12:29",
+            "created_at": "2023-07-10T16:45:11Z",
             "user_id": 1,
             "category_id": 3
         },
@@ -23,7 +23,7 @@
             "title": "Conexa",
             "content": "Sistema financeiro completo para empresas de serviços recorrentes",
             "image_url": "https://storage.googleapis.com/site-upload-storage/sites/conexa.png",
-            "created_at": "2023-07-27 16:00:00",
+            "created_at": "2023-07-30T12:45:11Z",
             "user_id": 1,
             "category_id": 6
         },
@@ -32,7 +32,7 @@
             "title": "Conexa Coworkings",
             "content": "O software Nº 1 em gestão de coworkings do Brasil!",
             "image_url": null,
-            "created_at": "2023-07-27 16:00:00",
+            "created_at": "2023-07-26T15:45:11Z",
             "user_id": 1,
             "category_id": 2
         },
@@ -41,7 +41,7 @@
             "title": "Conexa Recorrência",
             "content": "Descubra como manter seu negócio estável com a nossa ferramenta",
             "image_url": null,
-            "created_at": "2023-07-27 16:00:00",
+            "created_at": "2023-07-28T00:45:11Z",
             "user_id": 1,
             "category_id": 2
         }
@@ -52,42 +52,53 @@
             "body": "Muito bom o conteúdo",
             "post_id": 1,
             "comment_id": null,
-            "user_id": 1
+            "user_id": 1,
+            "created_at": "2023-07-30T21:45:11Z"
         },
         {
             "id": 2,
             "body": "Realmente. Me ajudou bastante",
             "post_id": 1,
             "comment_id": 1,
-            "user_id": 2
+            "user_id": 2,
+            "created_at": "2023-07-31T22:25:11Z"
+
         },
         {
             "id": 3,
             "body": "Show! 👏🏽👏🏽👏🏽",
             "post_id": 1,
             "comment_id": null,
-            "user_id": 2
+            "user_id": 2,
+            "created_at": "2023-08-03T02:45:11Z"
+
         },
         {
             "id": 4,
             "body": "Parabéns!",
             "post_id": 2,
             "comment_id": null,
-            "user_id": 1
+            "user_id": 1,
+            "created_at": "2023-07-31T01:45:11Z"
+
         },
         {
             "id": 5,
             "body": "Ótima ferramenta",
             "post_id": 3,
             "comment_id": null,
-            "user_id": 1
+            "user_id": 1,
+            "created_at": "2023-08-30T21:45:11Z"
+
         },
         {
             "id": 6,
             "body": "Ajudou bastante no meu negócio",
             "post_id": 3,
             "comment_id": 5,
-            "user_id": 1
+            "user_id": 1,
+            "created_at": "2023-08-01T11:45:11Z"
+
         }
     ],
     "users": [
@@ -98,7 +109,7 @@
             "name": "Cleyton",
             "password": "senhaDíficil",
             "photo": "https://github.com/MatheusNascimentoti99/Conexa-DB-Json/assets/32804625/ec3daccd-e799-4233-bf86-1e6414d25d13",
-            "created_at": "2023-07-25 22:02:59"
+            "created_at": "2023-07-30T11:05:11Z"
         },
         {
             "id": 2,
@@ -107,7 +118,7 @@
             "email": "lucas@gmail.gom",
             "password": "difícilPorqueTemÇ",
             "photo": null,
-            "created_at": "2023-07-25 22:02:59"
+            "created_at": "2023-07-31T10:30:11Z"
         }
     ],
     "categories": [
