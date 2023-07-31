@@ -2,103 +2,108 @@
     "posts": [
         {
             "id": 1,
-            "title": "Como aumentar a rentabilidade da sua empresa",
-            "content": "Aumentar a rentabilidade de uma empresa envolve uma combinação de estratégias financeiras, operacionais e de gestão. Lembre-se de que cada empresa é única, e as estratégias que funcionam para uma podem não ser adequadas para outra. Avalie cuidadosamente o contexto do seu negócio, faça análises constantes e esteja aberto a ajustar suas estratégias conforme necessário. Se possível, conte com a orientação de profissionais especializados em gestão empresarial e finanças.",
-            "image_url": "https://as2.ftcdn.net/v2/jpg/00/18/60/75/1000_F_18607589_fKOPX0dQKLcKRPKWwzkcmtZsbftqk5xF.jpg",
-            "created_at": "2023-07-27T10:45:11Z",
-            "user_id": 2,
-            "category_id": 3
+            "categoryId": 6,
+            "userId": 1,
+            "image_url": "https://as2.ftcdn.net/v2/jpg/06/07/42/03/1000_F_607420392_LdFuxthRw7OKYw8CFjBgr5aXDBy5Gu5r.jpg",
+            "title": "Quis sit non dolore pariatur qui minim pariatur ipsum est veniam sunt culpa cupidatat.",
+            "content": "Do ipsum laborum dolore elit cillum elit ea non. Mollit enim occaecat incididunt tempor commodo deserunt consequat eu occaecat aute occaecat culpa. Consectetur ipsum nostrud irure dolor excepteur esse sunt.\r\n",
+            "created_at": "2015-07-28T12:11:39 +03:00"
         },
         {
             "id": 2,
-            "title": "Melhorando o Ticket médio",
-            "content": "Aumentar o ticket médio é uma estratégia importante para aumentar a receita e a rentabilidade de um negócio. O ticket médio representa o valor médio gasto pelos clientes em cada compra, e existem várias formas de melhorá-lo. Lembre-se de que o aumento do ticket médio deve ser acompanhado por um atendimento de qualidade e uma proposta de valor clara e atrativa. Além disso, é fundamental conhecer bem o perfil e as necessidades dos seus clientes para oferecer soluções que realmente agreguem valor e justifiquem o gasto adicional.",
-            "image_url": "https://as2.ftcdn.net/v2/jpg/06/07/42/03/1000_F_607420392_LdFuxthRw7OKYw8CFjBgr5aXDBy5Gu5r.jpg",
-            "created_at": "2023-07-10T16:45:11Z",
-            "user_id": 1,
-            "category_id": 3
+            "categoryId": 1,
+            "userId": 4,
+            "image_url": "https://as2.ftcdn.net/v2/jpg/00/18/60/75/1000_F_18607589_fKOPX0dQKLcKRPKWwzkcmtZsbftqk5xF.jpg",
+            "title": "Dolor excepteur irure ipsum minim.",
+            "content": "Occaecat enim eu tempor excepteur. Incididunt laboris velit aute commodo amet ullamco dolor officia non tempor. Anim non id excepteur voluptate irure laborum in.\r\n",
+            "created_at": "2022-12-07T07:50:08 +03:00"
         },
         {
             "id": 3,
-            "title": "Conexa",
-            "content": "Sistema financeiro completo para empresas de serviços recorrentes",
+            "categoryId": 6,
+            "userId": 1,
             "image_url": "https://as2.ftcdn.net/v2/jpg/00/67/27/69/1000_F_67276977_nPSOEwTNowVhyZdHXWn8DXMbiDVZE48s.jpg",
-            "created_at": "2023-07-30T12:45:11Z",
-            "user_id": 1,
-            "category_id": 6
+            "title": "Adipisicing velit ea et pariatur officia duis ut sit aliquip.",
+            "content": "Consequat aliqua eu veniam veniam elit pariatur qui anim. Voluptate dolore adipisicing veniam sint enim qui qui sit mollit non in. Pariatur tempor pariatur dolore id et culpa et sunt enim esse et velit. Non reprehenderit ad labore ipsum sint velit laborum ullamco. Adipisicing culpa aliquip mollit enim duis id veniam sint anim. Lorem incididunt tempor irure occaecat exercitation deserunt amet in excepteur veniam mollit duis consectetur consequat. Occaecat aliqua ipsum culpa cupidatat ipsum laborum minim duis voluptate tempor incididunt duis veniam.\r\n",
+            "created_at": "2014-04-30T01:14:49 +03:00"
         },
         {
             "id": 4,
-            "title": "Conexa Coworkings",
-            "content": "O software Nº 1 em gestão de coworkings do Brasil!",
-            "image_url": null,
-            "created_at": "2023-07-26T15:45:11Z",
-            "user_id": 1,
-            "category_id": 2
+            "categoryId": 3,
+            "userId": 3,
+            "image_url": "https://as2.ftcdn.net/v2/jpg/06/07/42/03/1000_F_607420392_LdFuxthRw7OKYw8CFjBgr5aXDBy5Gu5r.jpg",
+            "title": "Esse non anim adipisicing irure mollit eiusmod voluptate elit commodo fugiat nisi incididunt.",
+            "content": "Eiusmod adipisicing incididunt est et nulla irure ut mollit reprehenderit id. Irure elit et velit dolore consectetur duis. Eiusmod nulla laboris proident proident.\r\n",
+            "created_at": "2016-04-03T11:36:49 +03:00"
         },
         {
             "id": 5,
-            "title": "Conexa Recorrência",
-            "content": "Descubra como manter seu negócio estável com a nossa ferramenta",
-            "image_url": null,
-            "created_at": "2023-07-28T00:45:11Z",
-            "user_id": 1,
-            "category_id": 2
+            "categoryId": 4,
+            "userId": 2,
+            "image_url": "",
+            "title": "Sint do ex enim officia adipisicing sit deserunt laborum anim laborum.",
+            "content": "Fugiat ea nisi deserunt et labore aliquip. Velit occaecat culpa aliqua proident. Cupidatat consequat sint labore aute irure mollit sunt proident est ea nisi. In amet esse pariatur quis ipsum eiusmod. Officia voluptate incididunt sunt qui culpa nostrud cillum anim. Ex tempor magna proident eiusmod ut proident laborum tempor cillum irure.\r\n",
+            "created_at": "2022-11-12T11:09:04 +03:00"
+        },
+        {
+            "id": 6,
+            "categoryId": 5,
+            "userId": 3,
+            "image_url": "https://as2.ftcdn.net/v2/jpg/00/18/60/75/1000_F_18607589_fKOPX0dQKLcKRPKWwzkcmtZsbftqk5xF.jpg",
+            "title": "Fugiat aliqua ad ipsum mollit excepteur.",
+            "content": "Exercitation enim non qui veniam magna id tempor esse reprehenderit anim dolor tempor sunt. Adipisicing tempor aute magna aliqua aute ad commodo ea voluptate ad tempor. Qui officia consequat ullamco tempor magna enim culpa magna incididunt eu excepteur amet dolore. Non sint qui minim aliquip cillum aliquip.\r\n",
+            "created_at": "2023-07-20T12:31:17 +03:00"
         }
     ],
     "comments": [
         {
             "id": 1,
-            "content": "Muito bom o conteúdo",
-            "post_id": 1,
-            "comment_id": null,
-            "user_id": 1,
-            "created_at": "2023-07-30T21:45:11Z"
+            "postId": 6,
+            "userId": 1,
+            "content": "Sint ex sunt qui mollit culpa dolore dolor. Cupidatat ea culpa voluptate velit dolore laborum. Anim consectetur aute est do eu quis quis quis qui ea ullamco dolore laboris. Excepteur qui officia qui velit pariatur et. Pariatur occaecat ipsum esse labore mollit culpa incididunt irure occaecat aliquip in enim. Aliqua labore deserunt anim nisi labore minim tempor occaecat veniam.\r\n",
+            "created_at": "2022-08-13T06:28:54 +03:00"
         },
         {
             "id": 2,
-            "content": "Realmente. Me ajudou bastante",
-            "post_id": 1,
-            "comment_id": 1,
-            "user_id": 2,
-            "created_at": "2023-07-31T22:25:11Z"
-
+            "postId": 3,
+            "userId": 3,
+            "content": "Officia est eu irure tempor sint. Proident duis anim elit consectetur officia nisi sunt esse pariatur eiusmod cillum. Occaecat reprehenderit laboris cillum culpa tempor deserunt incididunt ut. In consequat labore adipisicing non aliqua fugiat.\r\n",
+            "created_at": "2015-05-18T09:45:31 +03:00"
         },
         {
             "id": 3,
-            "content": "Show! 👏🏽👏🏽👏🏽",
-            "post_id": 1,
-            "comment_id": null,
-            "user_id": 2,
-            "created_at": "2023-08-03T02:45:11Z"
-
+            "postId": 5,
+            "userId": 4,
+            "content": "Adipisicing nulla sint tempor dolor culpa elit cillum ea. Consequat aute nisi exercitation labore dolore laborum cupidatat incididunt ipsum ad in duis. Dolore labore excepteur anim do eu id. Minim amet do pariatur magna aute magna. Anim laborum dolor laborum adipisicing consequat qui. Est in mollit aliqua incididunt eiusmod irure officia ea sit reprehenderit elit minim. Qui officia excepteur sint sit nostrud proident fugiat.\r\n",
+            "created_at": "2014-10-01T05:39:59 +03:00"
         },
         {
             "id": 4,
-            "content": "Parabéns!",
-            "post_id": 2,
-            "comment_id": null,
-            "user_id": 1,
-            "created_at": "2023-07-31T01:45:11Z"
-
+            "postId": 4,
+            "userId": 3,
+            "content": "Ad mollit eu tempor ipsum commodo. Enim sit reprehenderit ullamco sit sit ea ullamco. Nulla mollit mollit mollit esse eiusmod sint dolore qui. Qui aute tempor et qui eiusmod consequat dolor culpa deserunt in qui. Dolore eu do pariatur aute cillum nisi aliquip nostrud enim ex sit dolore fugiat ea. Veniam cupidatat veniam cupidatat reprehenderit exercitation dolore incididunt incididunt exercitation fugiat aliquip. Velit fugiat incididunt non voluptate fugiat consequat.\r\n",
+            "created_at": "2022-02-06T10:08:11 +03:00"
         },
         {
             "id": 5,
-            "content": "Ótima ferramenta",
-            "post_id": 3,
-            "comment_id": null,
-            "user_id": 1,
-            "created_at": "2023-08-30T21:45:11Z"
-
+            "postId": 4,
+            "userId": 3,
+            "content": "Deserunt duis aliqua id dolor cupidatat esse deserunt exercitation sit voluptate dolor sint id. Ad id aliqua nostrud proident amet do deserunt proident ad anim commodo est nulla et. Cupidatat minim amet aute culpa ad dolor eu deserunt anim. Magna fugiat amet tempor est dolor Lorem quis tempor sint reprehenderit. Eu sunt fugiat irure enim consectetur. Ipsum et ex esse laborum nostrud.\r\n",
+            "created_at": "2018-08-11T08:04:53 +03:00"
         },
         {
             "id": 6,
-            "content": "Ajudou bastante no meu negócio",
-            "post_id": 3,
-            "comment_id": 5,
-            "user_id": 1,
-            "created_at": "2023-08-01T11:45:11Z"
-
+            "postId": 3,
+            "userId": 3,
+            "content": "Et veniam ullamco esse dolore minim ipsum velit irure. Do dolore irure ex cupidatat et voluptate consequat nulla. Et qui non enim enim sunt elit dolore ea amet laborum. Pariatur veniam id deserunt aliquip quis amet est fugiat ullamco minim aute fugiat mollit. Exercitation elit fugiat pariatur ad ipsum dolore nisi laborum consequat enim velit fugiat.\r\n",
+            "created_at": "2022-05-07T12:16:44 +03:00"
+        },
+        {
+            "id": 7,
+            "postId": 2,
+            "userId": 1,
+            "content": "Mollit laboris sunt mollit eiusmod. Aliquip occaecat exercitation consectetur proident esse dolore fugiat velit aliqua Lorem labore id. Veniam ad proident est proident dolore culpa exercitation cillum duis dolor aliqua fugiat dolore duis. Laboris magna eu do incididunt tempor duis non aliquip deserunt culpa. Elit in dolore reprehenderit dolor elit cillum. Laborum cillum amet exercitation adipisicing Lorem cupidatat irure aute nulla Lorem eu eu. Duis in et id Lorem dolor quis labore velit esse sit aliqua sunt duis.\r\n",
+            "created_at": "2022-01-25T10:21:32 +03:00"
         }
     ],
     "users": [
@@ -107,7 +112,7 @@
             "username": "cleyton",
             "email": "cleyton@gmail.com",
             "name": "Cleyton",
-            "password": "senhaDíficil",
+            "password": "senhaNova",
             "photo": "https://github.com/MatheusNascimentoti99/Conexa-DB-Json/assets/32804625/ec3daccd-e799-4233-bf86-1e6414d25d13",
             "created_at": "2023-07-30T11:05:11Z"
         },
@@ -116,9 +121,27 @@
             "username": "lucas",
             "name": "Lucas",
             "email": "lucas@gmail.gom",
-            "password": "difícilPorqueTemÇ",
+            "password": "alohomora",
             "photo": null,
             "created_at": "2023-07-31T10:30:11Z"
+        },
+        {
+            "id": 3,
+            "username": "bruna.santos",
+            "email": "bruna@conexa.com",
+            "name": "Bruna Santos",
+            "password": "senhaNova",
+            "photo": "https://github.com/MatheusNascimentoti99/Conexa-DB-Json/assets/32804625/7021906d-726a-4ac4-a6e6-50060d239f82",
+            "created_at": "2023-07-30T11:05:11Z"
+        },
+        {
+            "id": 4,
+            "username": "ana",
+            "email": "ana@conexa.com",
+            "name": "Ana Maria",
+            "password": "senhaNova",
+            "photo": "https://github.com/MatheusNascimentoti99/Conexa-DB-Json/assets/32804625/7021906d-726a-4ac4-a6e6-50060d239f82",
+            "created_at": "2023-07-30T11:05:11Z"
         }
     ],
     "categories": [
